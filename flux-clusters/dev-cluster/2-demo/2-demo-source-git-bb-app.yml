@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 2-demo
-  url: https://github.com/sksajid79/block-buster
+  url: https://github.com/sksajid79/bb-app-source
