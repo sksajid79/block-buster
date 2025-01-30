@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 3-demo
-  url: https://github.com/sidd-harth-2/bb-app-source
+  url: https://github.com/sksajid79/bb-app-source
